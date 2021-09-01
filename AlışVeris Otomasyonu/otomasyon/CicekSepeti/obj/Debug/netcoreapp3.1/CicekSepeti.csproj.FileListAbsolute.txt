@@ -1,0 +1,318 @@
+C:\Users\İbrahim\Source\Repos\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\CicekSepeti.exe
+C:\Users\İbrahim\Source\Repos\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\CicekSepeti.deps.json
+C:\Users\İbrahim\Source\Repos\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\CicekSepeti.runtimeconfig.json
+C:\Users\İbrahim\Source\Repos\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\CicekSepeti.runtimeconfig.dev.json
+C:\Users\İbrahim\Source\Repos\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\CicekSepeti.dll
+C:\Users\İbrahim\Source\Repos\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\CicekSepeti.pdb
+C:\Users\İbrahim\Source\Repos\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\İbrahim\Source\Repos\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\İbrahim\Source\Repos\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\İbrahim\Source\Repos\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\İbrahim\Source\Repos\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\İbrahim\Source\Repos\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\İbrahim\Source\Repos\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.csproj.AssemblyReference.cache
+C:\Users\İbrahim\Source\Repos\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.Form1.resources
+C:\Users\İbrahim\Source\Repos\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.csproj.GenerateResource.cache
+C:\Users\İbrahim\Source\Repos\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.AssemblyInfoInputs.cache
+C:\Users\İbrahim\Source\Repos\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.AssemblyInfo.cs
+C:\Users\İbrahim\Source\Repos\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.csproj.CoreCompileInputs.cache
+C:\Users\İbrahim\Source\Repos\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.csproj.CopyComplete
+C:\Users\İbrahim\Source\Repos\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.dll
+C:\Users\İbrahim\Source\Repos\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.pdb
+C:\Users\İbrahim\Source\Repos\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.genruntimeconfig.cache
+C:\Users\İbrahim\Source\Repos\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.Kayıt_Ol.resources
+C:\Users\İbrahim\Source\Repos\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.arayuz.resources
+C:\Users\İbrahim\Source\Repos\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.hesabim.resources
+C:\Users\İbrahim\Source\Repos\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.profilDuzenle.resources
+C:\Users\sefar\OneDrive\Masaüstü\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\CicekSepeti.exe
+C:\Users\sefar\OneDrive\Masaüstü\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\CicekSepeti.deps.json
+C:\Users\sefar\OneDrive\Masaüstü\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\CicekSepeti.runtimeconfig.json
+C:\Users\sefar\OneDrive\Masaüstü\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\CicekSepeti.runtimeconfig.dev.json
+C:\Users\sefar\OneDrive\Masaüstü\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\CicekSepeti.dll
+C:\Users\sefar\OneDrive\Masaüstü\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\CicekSepeti.pdb
+C:\Users\sefar\OneDrive\Masaüstü\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\sefar\OneDrive\Masaüstü\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\sefar\OneDrive\Masaüstü\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\sefar\OneDrive\Masaüstü\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\sefar\OneDrive\Masaüstü\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sefar\OneDrive\Masaüstü\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sefar\OneDrive\Masaüstü\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.csproj.AssemblyReference.cache
+C:\Users\sefar\OneDrive\Masaüstü\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.arayuz.resources
+C:\Users\sefar\OneDrive\Masaüstü\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.Form1.resources
+C:\Users\sefar\OneDrive\Masaüstü\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.hesabim.resources
+C:\Users\sefar\OneDrive\Masaüstü\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.Kayıt_Ol.resources
+C:\Users\sefar\OneDrive\Masaüstü\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.profilDuzenle.resources
+C:\Users\sefar\OneDrive\Masaüstü\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.csproj.GenerateResource.cache
+C:\Users\sefar\OneDrive\Masaüstü\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.AssemblyInfoInputs.cache
+C:\Users\sefar\OneDrive\Masaüstü\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.AssemblyInfo.cs
+C:\Users\sefar\OneDrive\Masaüstü\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.csproj.CoreCompileInputs.cache
+C:\Users\sefar\OneDrive\Masaüstü\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.csproj.CopyComplete
+C:\Users\sefar\OneDrive\Masaüstü\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.dll
+C:\Users\sefar\OneDrive\Masaüstü\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.pdb
+C:\Users\sefar\OneDrive\Masaüstü\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.genruntimeconfig.cache
+C:\Users\sefar\OneDrive\Masaüstü\ödev2\ödev2\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\CicekSepeti.exe
+C:\Users\sefar\OneDrive\Masaüstü\ödev2\ödev2\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\CicekSepeti.deps.json
+C:\Users\sefar\OneDrive\Masaüstü\ödev2\ödev2\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\CicekSepeti.runtimeconfig.json
+C:\Users\sefar\OneDrive\Masaüstü\ödev2\ödev2\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\CicekSepeti.runtimeconfig.dev.json
+C:\Users\sefar\OneDrive\Masaüstü\ödev2\ödev2\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\CicekSepeti.dll
+C:\Users\sefar\OneDrive\Masaüstü\ödev2\ödev2\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\CicekSepeti.pdb
+C:\Users\sefar\OneDrive\Masaüstü\ödev2\ödev2\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\sefar\OneDrive\Masaüstü\ödev2\ödev2\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\sefar\OneDrive\Masaüstü\ödev2\ödev2\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\sefar\OneDrive\Masaüstü\ödev2\ödev2\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\sefar\OneDrive\Masaüstü\ödev2\ödev2\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sefar\OneDrive\Masaüstü\ödev2\ödev2\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sefar\OneDrive\Masaüstü\ödev2\ödev2\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.csproj.AssemblyReference.cache
+C:\Users\sefar\OneDrive\Masaüstü\ödev2\ödev2\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.arayuz.resources
+C:\Users\sefar\OneDrive\Masaüstü\ödev2\ödev2\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.Form1.resources
+C:\Users\sefar\OneDrive\Masaüstü\ödev2\ödev2\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.Kayıt_Ol.resources
+C:\Users\sefar\OneDrive\Masaüstü\ödev2\ödev2\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.profilDuzenle.resources
+C:\Users\sefar\OneDrive\Masaüstü\ödev2\ödev2\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.csproj.GenerateResource.cache
+C:\Users\sefar\OneDrive\Masaüstü\ödev2\ödev2\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.AssemblyInfoInputs.cache
+C:\Users\sefar\OneDrive\Masaüstü\ödev2\ödev2\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.AssemblyInfo.cs
+C:\Users\sefar\OneDrive\Masaüstü\ödev2\ödev2\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.csproj.CoreCompileInputs.cache
+C:\Users\sefar\OneDrive\Masaüstü\ödev2\ödev2\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.csproj.CopyComplete
+C:\Users\sefar\OneDrive\Masaüstü\ödev2\ödev2\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.dll
+C:\Users\sefar\OneDrive\Masaüstü\ödev2\ödev2\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.pdb
+C:\Users\sefar\OneDrive\Masaüstü\ödev2\ödev2\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.genruntimeconfig.cache
+C:\Users\sefar\OneDrive\Masaüstü\ödev2\ödev2\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.AdminUrun.resources
+C:\Users\sefar\OneDrive\Masaüstü\ödev2\ödev2\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.Properties.Resources.resources
+C:\Users\İbrahim\Desktop\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\CicekSepeti.exe
+C:\Users\İbrahim\Desktop\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\CicekSepeti.deps.json
+C:\Users\İbrahim\Desktop\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\CicekSepeti.runtimeconfig.json
+C:\Users\İbrahim\Desktop\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\CicekSepeti.runtimeconfig.dev.json
+C:\Users\İbrahim\Desktop\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\CicekSepeti.dll
+C:\Users\İbrahim\Desktop\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\CicekSepeti.pdb
+C:\Users\İbrahim\Desktop\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\İbrahim\Desktop\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\İbrahim\Desktop\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\İbrahim\Desktop\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\İbrahim\Desktop\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\İbrahim\Desktop\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\İbrahim\Desktop\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.csproj.AssemblyReference.cache
+C:\Users\İbrahim\Desktop\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.AdminUrun.resources
+C:\Users\İbrahim\Desktop\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.arayuz.resources
+C:\Users\İbrahim\Desktop\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.Form1.resources
+C:\Users\İbrahim\Desktop\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.Kayıt_Ol.resources
+C:\Users\İbrahim\Desktop\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.profilDuzenle.resources
+C:\Users\İbrahim\Desktop\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.Properties.Resources.resources
+C:\Users\İbrahim\Desktop\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.csproj.GenerateResource.cache
+C:\Users\İbrahim\Desktop\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.AssemblyInfoInputs.cache
+C:\Users\İbrahim\Desktop\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.AssemblyInfo.cs
+C:\Users\İbrahim\Desktop\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.csproj.CoreCompileInputs.cache
+C:\Users\İbrahim\Desktop\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.csproj.CopyComplete
+C:\Users\İbrahim\Desktop\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.dll
+C:\Users\İbrahim\Desktop\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.pdb
+C:\Users\İbrahim\Desktop\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.genruntimeconfig.cache
+C:\Users\İbrahim\Desktop\CicekSepeti1\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\CicekSepeti.exe
+C:\Users\İbrahim\Desktop\CicekSepeti1\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\CicekSepeti.deps.json
+C:\Users\İbrahim\Desktop\CicekSepeti1\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\CicekSepeti.runtimeconfig.json
+C:\Users\İbrahim\Desktop\CicekSepeti1\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\CicekSepeti.runtimeconfig.dev.json
+C:\Users\İbrahim\Desktop\CicekSepeti1\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\CicekSepeti.dll
+C:\Users\İbrahim\Desktop\CicekSepeti1\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\CicekSepeti.pdb
+C:\Users\İbrahim\Desktop\CicekSepeti1\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\İbrahim\Desktop\CicekSepeti1\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\İbrahim\Desktop\CicekSepeti1\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\İbrahim\Desktop\CicekSepeti1\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\İbrahim\Desktop\CicekSepeti1\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\İbrahim\Desktop\CicekSepeti1\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\İbrahim\Desktop\CicekSepeti1\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.csproj.AssemblyReference.cache
+C:\Users\İbrahim\Desktop\CicekSepeti1\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.AdminUrun.resources
+C:\Users\İbrahim\Desktop\CicekSepeti1\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.arayuz.resources
+C:\Users\İbrahim\Desktop\CicekSepeti1\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.Form1.resources
+C:\Users\İbrahim\Desktop\CicekSepeti1\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.Kayıt_Ol.resources
+C:\Users\İbrahim\Desktop\CicekSepeti1\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.profilDuzenle.resources
+C:\Users\İbrahim\Desktop\CicekSepeti1\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.Properties.Resources.resources
+C:\Users\İbrahim\Desktop\CicekSepeti1\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.csproj.GenerateResource.cache
+C:\Users\İbrahim\Desktop\CicekSepeti1\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.AssemblyInfoInputs.cache
+C:\Users\İbrahim\Desktop\CicekSepeti1\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.AssemblyInfo.cs
+C:\Users\İbrahim\Desktop\CicekSepeti1\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.csproj.CoreCompileInputs.cache
+C:\Users\İbrahim\Desktop\CicekSepeti1\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.csproj.CopyComplete
+C:\Users\İbrahim\Desktop\CicekSepeti1\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.dll
+C:\Users\İbrahim\Desktop\CicekSepeti1\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.pdb
+C:\Users\İbrahim\Desktop\CicekSepeti1\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.genruntimeconfig.cache
+C:\Users\sefar\OneDrive\Masaüstü\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.dll
+C:\Users\sefar\OneDrive\Masaüstü\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.pdb
+C:\Users\sefar\OneDrive\Masaüstü\CicekSepeti0\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\CicekSepeti.exe
+C:\Users\sefar\OneDrive\Masaüstü\CicekSepeti0\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\CicekSepeti.deps.json
+C:\Users\sefar\OneDrive\Masaüstü\CicekSepeti0\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\CicekSepeti.runtimeconfig.json
+C:\Users\sefar\OneDrive\Masaüstü\CicekSepeti0\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\CicekSepeti.runtimeconfig.dev.json
+C:\Users\sefar\OneDrive\Masaüstü\CicekSepeti0\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\CicekSepeti.dll
+C:\Users\sefar\OneDrive\Masaüstü\CicekSepeti0\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\CicekSepeti.pdb
+C:\Users\sefar\OneDrive\Masaüstü\CicekSepeti0\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\sefar\OneDrive\Masaüstü\CicekSepeti0\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\sefar\OneDrive\Masaüstü\CicekSepeti0\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\sefar\OneDrive\Masaüstü\CicekSepeti0\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\sefar\OneDrive\Masaüstü\CicekSepeti0\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sefar\OneDrive\Masaüstü\CicekSepeti0\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sefar\OneDrive\Masaüstü\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.csproj.AssemblyReference.cache
+C:\Users\sefar\OneDrive\Masaüstü\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.AdminUrun.resources
+C:\Users\sefar\OneDrive\Masaüstü\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.arayuz.resources
+C:\Users\sefar\OneDrive\Masaüstü\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.Form1.resources
+C:\Users\sefar\OneDrive\Masaüstü\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.Kayıt_Ol.resources
+C:\Users\sefar\OneDrive\Masaüstü\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.profilDuzenle.resources
+C:\Users\sefar\OneDrive\Masaüstü\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.Properties.Resources.resources
+C:\Users\sefar\OneDrive\Masaüstü\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.csproj.GenerateResource.cache
+C:\Users\sefar\OneDrive\Masaüstü\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.AssemblyInfoInputs.cache
+C:\Users\sefar\OneDrive\Masaüstü\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.AssemblyInfo.cs
+C:\Users\sefar\OneDrive\Masaüstü\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.csproj.CoreCompileInputs.cache
+C:\Users\sefar\OneDrive\Masaüstü\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.csproj.CopyComplete
+C:\Users\sefar\OneDrive\Masaüstü\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.genruntimeconfig.cache
+C:\Users\İbrahim\Desktop\CicekSepeti0\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\CicekSepeti.exe
+C:\Users\İbrahim\Desktop\CicekSepeti0\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\CicekSepeti.deps.json
+C:\Users\İbrahim\Desktop\CicekSepeti0\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\CicekSepeti.runtimeconfig.json
+C:\Users\İbrahim\Desktop\CicekSepeti0\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\CicekSepeti.runtimeconfig.dev.json
+C:\Users\İbrahim\Desktop\CicekSepeti0\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\CicekSepeti.dll
+C:\Users\İbrahim\Desktop\CicekSepeti0\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\CicekSepeti.pdb
+C:\Users\İbrahim\Desktop\CicekSepeti0\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\İbrahim\Desktop\CicekSepeti0\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\İbrahim\Desktop\CicekSepeti0\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\İbrahim\Desktop\CicekSepeti0\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\İbrahim\Desktop\CicekSepeti0\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\İbrahim\Desktop\CicekSepeti0\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\İbrahim\Desktop\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.AdminUrun.resources
+C:\Users\İbrahim\Desktop\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.arayuz.resources
+C:\Users\İbrahim\Desktop\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.Form1.resources
+C:\Users\İbrahim\Desktop\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.Kayıt_Ol.resources
+C:\Users\İbrahim\Desktop\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.profilDuzenle.resources
+C:\Users\İbrahim\Desktop\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.Properties.Resources.resources
+C:\Users\İbrahim\Desktop\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.csproj.GenerateResource.cache
+C:\Users\İbrahim\Desktop\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.AssemblyInfoInputs.cache
+C:\Users\İbrahim\Desktop\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.AssemblyInfo.cs
+C:\Users\İbrahim\Desktop\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.csproj.CoreCompileInputs.cache
+C:\Users\İbrahim\Desktop\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.csproj.CopyComplete
+C:\Users\İbrahim\Desktop\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.dll
+C:\Users\İbrahim\Desktop\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.pdb
+C:\Users\İbrahim\Desktop\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.genruntimeconfig.cache
+C:\Users\İbrahim\Desktop\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.SiparisOnay.resources
+C:\Users\İbrahim\Desktop\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.csproj.AssemblyReference.cache
+C:\Users\İbrahim\Desktop\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.Sepet.resources
+D:\yedek\CicekSepeti0\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\CicekSepeti.exe
+D:\yedek\CicekSepeti0\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\CicekSepeti.deps.json
+D:\yedek\CicekSepeti0\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\CicekSepeti.runtimeconfig.json
+D:\yedek\CicekSepeti0\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\CicekSepeti.runtimeconfig.dev.json
+D:\yedek\CicekSepeti0\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\CicekSepeti.dll
+D:\yedek\CicekSepeti0\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\CicekSepeti.pdb
+D:\yedek\CicekSepeti0\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\yedek\CicekSepeti0\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\yedek\CicekSepeti0\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\yedek\CicekSepeti0\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\yedek\CicekSepeti0\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\yedek\CicekSepeti0\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\yedek\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.csproj.AssemblyReference.cache
+D:\yedek\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.AdminUrun.resources
+D:\yedek\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.arayuz.resources
+D:\yedek\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.Form1.resources
+D:\yedek\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.Kayıt_Ol.resources
+D:\yedek\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.profilDuzenle.resources
+D:\yedek\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.Properties.Resources.resources
+D:\yedek\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.Sepet.resources
+D:\yedek\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.SiparisOnay.resources
+D:\yedek\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.csproj.GenerateResource.cache
+D:\yedek\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.GeneratedMSBuildEditorConfig.editorconfig
+D:\yedek\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.AssemblyInfoInputs.cache
+D:\yedek\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.AssemblyInfo.cs
+D:\yedek\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.csproj.CoreCompileInputs.cache
+D:\yedek\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.csproj.CopyComplete
+D:\yedek\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.dll
+D:\yedek\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.pdb
+D:\yedek\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.genruntimeconfig.cache
+C:\Users\ibrah\Desktop\Volumeid\CicekSepeti0\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\CicekSepeti.exe
+C:\Users\ibrah\Desktop\Volumeid\CicekSepeti0\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\CicekSepeti.deps.json
+C:\Users\ibrah\Desktop\Volumeid\CicekSepeti0\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\CicekSepeti.runtimeconfig.json
+C:\Users\ibrah\Desktop\Volumeid\CicekSepeti0\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\CicekSepeti.runtimeconfig.dev.json
+C:\Users\ibrah\Desktop\Volumeid\CicekSepeti0\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\CicekSepeti.dll
+C:\Users\ibrah\Desktop\Volumeid\CicekSepeti0\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\CicekSepeti.pdb
+C:\Users\ibrah\Desktop\Volumeid\CicekSepeti0\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\ibrah\Desktop\Volumeid\CicekSepeti0\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\ibrah\Desktop\Volumeid\CicekSepeti0\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\ibrah\Desktop\Volumeid\CicekSepeti0\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\ibrah\Desktop\Volumeid\CicekSepeti0\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ibrah\Desktop\Volumeid\CicekSepeti0\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ibrah\Desktop\Volumeid\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.csproj.AssemblyReference.cache
+C:\Users\ibrah\Desktop\Volumeid\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.AdminUrun.resources
+C:\Users\ibrah\Desktop\Volumeid\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.arayuz.resources
+C:\Users\ibrah\Desktop\Volumeid\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.Form1.resources
+C:\Users\ibrah\Desktop\Volumeid\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.Kayıt_Ol.resources
+C:\Users\ibrah\Desktop\Volumeid\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.profilDuzenle.resources
+C:\Users\ibrah\Desktop\Volumeid\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.Properties.Resources.resources
+C:\Users\ibrah\Desktop\Volumeid\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.Sepet.resources
+C:\Users\ibrah\Desktop\Volumeid\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.SiparisOnay.resources
+C:\Users\ibrah\Desktop\Volumeid\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.csproj.GenerateResource.cache
+C:\Users\ibrah\Desktop\Volumeid\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrah\Desktop\Volumeid\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.AssemblyInfoInputs.cache
+C:\Users\ibrah\Desktop\Volumeid\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.AssemblyInfo.cs
+C:\Users\ibrah\Desktop\Volumeid\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\Desktop\Volumeid\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.csproj.CopyComplete
+C:\Users\ibrah\Desktop\Volumeid\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.dll
+C:\Users\ibrah\Desktop\Volumeid\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.pdb
+C:\Users\ibrah\Desktop\Volumeid\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.genruntimeconfig.cache
+C:\Users\ibrah\Desktop\Volumeid\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.Log.resources
+C:\Users\ibrah\Desktop\Yeni klasör\CicekSepeti0\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\CicekSepeti.exe
+C:\Users\ibrah\Desktop\Yeni klasör\CicekSepeti0\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\CicekSepeti.deps.json
+C:\Users\ibrah\Desktop\Yeni klasör\CicekSepeti0\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\CicekSepeti.runtimeconfig.json
+C:\Users\ibrah\Desktop\Yeni klasör\CicekSepeti0\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\CicekSepeti.runtimeconfig.dev.json
+C:\Users\ibrah\Desktop\Yeni klasör\CicekSepeti0\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\CicekSepeti.dll
+C:\Users\ibrah\Desktop\Yeni klasör\CicekSepeti0\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\CicekSepeti.pdb
+C:\Users\ibrah\Desktop\Yeni klasör\CicekSepeti0\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\ibrah\Desktop\Yeni klasör\CicekSepeti0\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\ibrah\Desktop\Yeni klasör\CicekSepeti0\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\ibrah\Desktop\Yeni klasör\CicekSepeti0\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\ibrah\Desktop\Yeni klasör\CicekSepeti0\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ibrah\Desktop\Yeni klasör\CicekSepeti0\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ibrah\Desktop\Yeni klasör\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.csproj.AssemblyReference.cache
+C:\Users\ibrah\Desktop\Yeni klasör\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.AdminUrun.resources
+C:\Users\ibrah\Desktop\Yeni klasör\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.arayuz.resources
+C:\Users\ibrah\Desktop\Yeni klasör\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.Form1.resources
+C:\Users\ibrah\Desktop\Yeni klasör\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.Kayıt_Ol.resources
+C:\Users\ibrah\Desktop\Yeni klasör\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.Log.resources
+C:\Users\ibrah\Desktop\Yeni klasör\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.profilDuzenle.resources
+C:\Users\ibrah\Desktop\Yeni klasör\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.Properties.Resources.resources
+C:\Users\ibrah\Desktop\Yeni klasör\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.Sepet.resources
+C:\Users\ibrah\Desktop\Yeni klasör\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.SiparisOnay.resources
+C:\Users\ibrah\Desktop\Yeni klasör\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.csproj.GenerateResource.cache
+C:\Users\ibrah\Desktop\Yeni klasör\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrah\Desktop\Yeni klasör\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.AssemblyInfoInputs.cache
+C:\Users\ibrah\Desktop\Yeni klasör\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.AssemblyInfo.cs
+C:\Users\ibrah\Desktop\Yeni klasör\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\Desktop\Yeni klasör\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.csproj.CopyComplete
+C:\Users\ibrah\Desktop\Yeni klasör\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.dll
+C:\Users\ibrah\Desktop\Yeni klasör\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.pdb
+C:\Users\ibrah\Desktop\Yeni klasör\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.genruntimeconfig.cache
+C:\Users\ibrah\Desktop\Yeni klasör\CicekSepeti0\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.adminBayiGiris.resources
+C:\Users\ibrah\Desktop\Yeni klasör\CicekSepeti0\C#PROJE\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\CicekSepeti.exe
+C:\Users\ibrah\Desktop\Yeni klasör\CicekSepeti0\C#PROJE\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\CicekSepeti.deps.json
+C:\Users\ibrah\Desktop\Yeni klasör\CicekSepeti0\C#PROJE\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\CicekSepeti.runtimeconfig.json
+C:\Users\ibrah\Desktop\Yeni klasör\CicekSepeti0\C#PROJE\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\CicekSepeti.runtimeconfig.dev.json
+C:\Users\ibrah\Desktop\Yeni klasör\CicekSepeti0\C#PROJE\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\CicekSepeti.dll
+C:\Users\ibrah\Desktop\Yeni klasör\CicekSepeti0\C#PROJE\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\CicekSepeti.pdb
+C:\Users\ibrah\Desktop\Yeni klasör\CicekSepeti0\C#PROJE\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\ibrah\Desktop\Yeni klasör\CicekSepeti0\C#PROJE\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\ibrah\Desktop\Yeni klasör\CicekSepeti0\C#PROJE\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\ibrah\Desktop\Yeni klasör\CicekSepeti0\C#PROJE\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\ibrah\Desktop\Yeni klasör\CicekSepeti0\C#PROJE\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ibrah\Desktop\Yeni klasör\CicekSepeti0\C#PROJE\CicekSepeti\CicekSepeti\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ibrah\Desktop\Yeni klasör\CicekSepeti0\C#PROJE\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.adminBayiGiris.resources
+C:\Users\ibrah\Desktop\Yeni klasör\CicekSepeti0\C#PROJE\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.AdminUrun.resources
+C:\Users\ibrah\Desktop\Yeni klasör\CicekSepeti0\C#PROJE\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.arayuz.resources
+C:\Users\ibrah\Desktop\Yeni klasör\CicekSepeti0\C#PROJE\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.Form1.resources
+C:\Users\ibrah\Desktop\Yeni klasör\CicekSepeti0\C#PROJE\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.Kayıt_Ol.resources
+C:\Users\ibrah\Desktop\Yeni klasör\CicekSepeti0\C#PROJE\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.Log.resources
+C:\Users\ibrah\Desktop\Yeni klasör\CicekSepeti0\C#PROJE\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.profilDuzenle.resources
+C:\Users\ibrah\Desktop\Yeni klasör\CicekSepeti0\C#PROJE\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.Properties.Resources.resources
+C:\Users\ibrah\Desktop\Yeni klasör\CicekSepeti0\C#PROJE\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.Sepet.resources
+C:\Users\ibrah\Desktop\Yeni klasör\CicekSepeti0\C#PROJE\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.SiparisOnay.resources
+C:\Users\ibrah\Desktop\Yeni klasör\CicekSepeti0\C#PROJE\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.csproj.GenerateResource.cache
+C:\Users\ibrah\Desktop\Yeni klasör\CicekSepeti0\C#PROJE\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrah\Desktop\Yeni klasör\CicekSepeti0\C#PROJE\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.AssemblyInfoInputs.cache
+C:\Users\ibrah\Desktop\Yeni klasör\CicekSepeti0\C#PROJE\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.AssemblyInfo.cs
+C:\Users\ibrah\Desktop\Yeni klasör\CicekSepeti0\C#PROJE\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\Desktop\Yeni klasör\CicekSepeti0\C#PROJE\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.csproj.CopyComplete
+C:\Users\ibrah\Desktop\Yeni klasör\CicekSepeti0\C#PROJE\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.dll
+C:\Users\ibrah\Desktop\Yeni klasör\CicekSepeti0\C#PROJE\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.pdb
+C:\Users\ibrah\Desktop\Yeni klasör\CicekSepeti0\C#PROJE\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.genruntimeconfig.cache
+C:\Users\ibrah\Desktop\Yeni klasör\CicekSepeti0\C#PROJE\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.csproj.AssemblyReference.cache
+C:\Users\ibrah\Desktop\Yeni klasör\CicekSepeti0\C#PROJE\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.BayiLog.resources
+C:\Users\ibrah\Desktop\Yeni klasör\CicekSepeti0\C#PROJE\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.HediyeKupon.resources
+C:\Users\ibrah\Desktop\Yeni klasör\CicekSepeti0\C#PROJE\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.Kargo.resources
+C:\Users\ibrah\Desktop\Yeni klasör\CicekSepeti0\C#PROJE\CicekSepeti\CicekSepeti\obj\Debug\netcoreapp3.1\CicekSepeti.kullaniciKargo.resources
